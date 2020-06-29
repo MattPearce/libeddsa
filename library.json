@@ -1,0 +1,15 @@
+{
+  "name": "libeddsa",
+  "keywords": "ed25519",
+  "description": "This is a small cryptographic library for signatures with ed25519 and diffie-hellman key exchange with x25519.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattPearce/libeddsa.git"
+  },
+  "version": "1.0.0",
+  "build": {
+    "srcDir": "lib",
+    "srcFilter": "+<*.c>",
+    "includeDir": "lib"
+  }
+}
