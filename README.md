@@ -1,4 +1,4 @@
-# libeddsa
+# libeddsa (Platform.io compatible fork)
 
 This is a small cryptographic library for signatures with [ed25519](http://ed25519.cr.yp.to/ed25519-20110705.pdf) and diffie-hellman key exchange with [x25519](http://cr.yp.to/ecdh/curve25519-20060209.pdf).
 
